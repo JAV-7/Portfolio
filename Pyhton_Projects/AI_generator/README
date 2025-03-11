@@ -1,0 +1,31 @@
+# AI Image Generator
+
+This project consists of generating AI images fromn a set of given 
+given styles, such as: <br />
+- "Photorealistic" 
+- "Cartoon" 
+- "Abstract" 
+- "Surreal" 
+- And more.
+
+It can generate up to 10 different images. <br />
+
+## 📜 Details
+The following libraries are used: <br />
+- `openai` for AI generation <br />
+- `PIL` + `urllib.request` + `io` for background image<br />
+- `os` retrieve API from environment.<br />
+- And more.<br />
+
+In line 8, ai.py, replace in 'OPENAI_API_KEY' with your own API KEY.
+This can be achieved with the following proces,
+
+
+### pip install the following !
+
+`pip install`
+`pip install`
+`pip install`
+
+
+

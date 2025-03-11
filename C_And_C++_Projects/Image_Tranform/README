@@ -1,0 +1,12 @@
+# Image Transformation
+This project implements a simple image processing system in C for handling PPM (Portable Pixel Map) images.</br> It provides functionalities to load, manipulate, and save PPM images using an Abstract Data Type (ADT). </br> 
+Used concepts: dynamic programming, data structures, file handling.
+
+Has the following modes coloring.
+- Black and white.
+- Grayscale.
+- Compressed.
+- Dithering.
+
+## ImageToPPM.jar
+App used to view the PPM generated file.

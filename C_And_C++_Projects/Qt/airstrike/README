@@ -1,0 +1,9 @@
+# Airstrike / Space Shooter
+
+## 📜 Description
+Space shooter game using Qt engine,  C++.
+This project is a 2D game where THE PLAYER control a spaceship and battle enemy ships.
+Contains important features as score, health, music/event sound, and more !
+
+
+
